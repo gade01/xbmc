@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'xbmc/xbmc'
+    if: github.repository == 'gade01/xbmc'
     runs-on: ubuntu-latest
 
     strategy:
