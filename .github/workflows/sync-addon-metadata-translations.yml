@@ -4,8 +4,16 @@ on:
   push:
     branches: [ metadats ]
     paths:
-      - '**addon.xml'
-      - '**resource.language.**strings.po'
+      - '**skin.estuary**addon.xml'
+      - '**skin.estuary**resource.language.**strings.po'
+      - '**skin.estouchy**addon.xml'
+      - '**skin.estouchy**resource.language.**strings.po'
+      - '**audioencoder.kodi.builtin.aac**addon.xml'
+      - '**audioencoder.kodi.builtin.aac**resource.language.**strings.po'
+      - '**audioencoder.kodi.builtin.wma**addon.xml'
+      - '**audioencoder.kodi.builtin.wma**resource.language.**strings.po'
+      - '**screensaver.xbmc.builtin.dim**addon.xml'
+      - '**screensaver.xbmc.builtin.dim**resource.language.**strings.po'
 
 jobs:
   default:
