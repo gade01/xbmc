@@ -16,6 +16,14 @@ msgstr ""
 "Language: mk_MK\n"
 "Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Skin for touchscreen devices"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Skin designed to be used on touchscreen devices like tablets and smartphones"
+msgstr ""
+
 msgctxt "#31002"
 msgid "Audio Settings"
 msgstr "Поставки за аудио"
