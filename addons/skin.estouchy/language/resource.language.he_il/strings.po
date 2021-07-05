@@ -16,6 +16,14 @@ msgstr ""
 "Language: he_IL\n"
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
 
+msgctxt "Addon Summary"
+msgid "Skin for touchscreen devices"
+msgstr "מעטפת עבור התקני מסך מגע"
+
+msgctxt "Addon Description"
+msgid "Skin designed to be used on touchscreen devices like tablets and smartphones"
+msgstr "מעטפת מיועדת לשימוש בהתקני מסך מגע כגון טאבלט וסמארטפון"
+
 msgctxt "#31002"
 msgid "Audio Settings"
 msgstr "הגדרות שמע"
